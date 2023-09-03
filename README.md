@@ -2,7 +2,7 @@
 <h3 align="center"> Software Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💬 Ask me about **React,Redux,Typescript,PHP,Laravel**
+- 💬 Ask me about **React,Redux,Typescript,Python,Django**
 
 - 📫 How to reach me **nadim35-287@diu.edu.bd**
 
